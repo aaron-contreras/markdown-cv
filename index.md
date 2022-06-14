@@ -3,33 +3,27 @@ layout: cv
 title: Aaron Contreras
 ---
 # Aaron Contreras
-Full-Stack Engineer.
+Full-Stack Software Engineer.
 
 <div id="webaddress">
-<a href="mailto:aaronlcaq@gmail.com" target="_blank">Email</a>
+<a href="mailto:aaronlcaq@gmail.com" target="_blank">aaronlcaq@gmail.com</a>
 | <a href="https://github.com/aaron-contreras" target="_blank">Portfolio</a>
 | <a href="https://www.linkedin.com/in/aaron-l-contreras/" target="_blank">LinkedIn</a>
 | <a href="https://github.com/aaron-contreras" target="_blank">Github</a>
 </div>
 
-## Experienced in (could be deleted)
+## Experienced in
+__RESTful API development__ - Production-grade solutions for the consumption of resources by multiple client platforms.
 
-RESTful API development - Delivering production-grade backend services for the consumption of several web and mobile platforms as the official source of truth.
+__Identity & Access management__ - Authentication and authorization solutions
 
-API security - Reliable authentication and authorization solutions.
+__Security__ - Enforcing vulnerability and security considerations during design and development.
 
-English<->Spanish Translation. Authorized and certified by Panama's Ministry of Education.
+__English<->Spanish translation__ - Authorized and certified by Panama's Ministry of Education.
 
-### Specialized in (could also be called this)
+## Open-source contributions
 
-RESTful API development - Delivering production-grade backend services for the consumption of several web and mobile platforms as the official source of truth.
-
-API security - Reliable authentication and authorization solutions.
-
-
-### Research interests
-
-Performance, security, dog-training.
+[Matestack](https://github.com/matestack) - Core contributor and core team member
 
 
 ## Professional Experience
@@ -56,6 +50,27 @@ ___Stack___
 - AWS
 - Docker
 - Circle CI
+
+
+`2021-now`
+__[ Full Stack Software Engineer - Freelance, _MateLab GmbH_ ]__
+
+__Projects__
+
+🔫 ___ActionPark Nürnberg___ - Laser tag Center
+
+Gathered and communicated with German clients to gather requirements and insight into the business model to plan solutions and action plans for the upcoming feature development cycle and rebranding.
+
+Added a unit test and integration coverage suite to the company's untested legacy booking app to ensure the safe adoption and modification of the codebase.
+
+Re-designed the booking app to adhere to the designs provided by the business in order to reflect their new branding, image and style guide.
+
+___Stack___
+- Ruby on Rails
+- Matestack
+- Paypal
+- Postgresql
+- Docker
 
 `2021`
 __[ Full Stack Software Engineer, _Magnetto_ ]__
@@ -85,7 +100,7 @@ __Projects__
 Translated legal and sensitive documents to facilitate the exchange, communication and proceedings for law practices between attorneys and clients. Worked closely and in collaboration with the Criminal Sector lead of the firm.
 
 `2016-2017`
-__[Software Engineer, _Remodeltec Panama_ ]__
+__[Software Engineer - Contractor, _Remodeltec Panama_ ]__
 
 __Projects__  
 
@@ -120,46 +135,6 @@ __Bachelor's Degree, Universidad Tecnológica de Panamá.__
 __High School Degree, St. Mary's School.__
 
 - Science, Arts and Business
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
