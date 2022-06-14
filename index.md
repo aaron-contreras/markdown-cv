@@ -103,7 +103,7 @@ __Stack__
 
 🚢 ___Omega___  - Transshipment and Logistics
 
-Aided in the requirements analysis and business logic development of a transshipment and logistics application to record container data and generate transshipment reports, shaving off gruelsome and tiresome hours of work to employees in the company as well as limiting human-error to a minimum by automating the legacy paper system that was established by the company and used for years.
+Aided in the requirements analysis and business logic development of a transshipment and logistics application to record container data and generate transshipment reports, shaving off gruelsome and tiresome hours of work to employees in the company, as well as limiting human-error to a minimum by automating the company's legacy paper workflow.
 
 __Stack__
 - C#
