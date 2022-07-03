@@ -7,19 +7,19 @@ Full-Stack Software Engineer.
 
 <div id="webaddress">
 <a href="mailto:aaronlcaq@gmail.com" target="_blank">aaronlcaq@gmail.com</a>
-| <a href="https://github.com/aaron-contreras" target="_blank">Portfolio</a>
+<!-- | <a href="https://github.com/aaron-contreras" target="_blank">Portfolio</a> -->
 | <a href="https://www.linkedin.com/in/aaron-l-contreras/" target="_blank">LinkedIn</a>
 | <a href="https://github.com/aaron-contreras" target="_blank">Github</a>
 </div>
 
-## Experienced in
+<!-- ## Experienced in
 __RESTful API development__ - Production-grade solutions for the consumption of resources by multiple client platforms.
 
 __Identity & Access management__ - Authentication and authorization solutions
 
 __Security__ - Enforcing vulnerability and security considerations during design and development.
 
-__English<->Spanish translation__ - Authorized and certified by Panama's Ministry of Education.
+__English<->Spanish translation__ - Authorized and certified by Panama's Ministry of Education. -->
 
 ## Open-source contributions
 
@@ -38,11 +38,11 @@ __Projects__
 Improved the security of the API's authentication system allowing users to go through a reliable password reset flow that didn't expose any user-critical information that can
 be leveraged during an exploit.
 
-Enhanced the CI/CD pipeline to reduce the average time spent in code review by X% and the number of bounce-backs QA/QE due to failing regression tests.
+Enhanced the CI/CD pipeline to reduce the average time spent in code review by 65% and reduced the number of regression bugs introduced at a rate close to 98%.
 
 Engineered, developed, led and scaled the integration between Pricemoov - a SaaS to manage product pricing - and the company’s monolithic API, allowing pricing managers to strategize and modify rates for vehicle fleets and dealership locations through the Pricemoov interface, while having all this pricing data seamlessly synchronize with the business's Rental app.
 
-Audited the monolithic API's endpoints for unsanitized error responses, exposing SQL queries being used by the internal implementations of said endpoints and business logic. Built an error sanitizer that ensured no raw SQL queries are being exposed regardless of the origin or type of exceptional states being raised by the monolith, further improving its security and reducing vulnerability to malicious intents.
+Audited the monolithic API's endpoints for unsanitized error responses, exposing SQL queries being used by the internal its internal workings. Following this, built an error sanitizer that ensured no sensitive information that may be leveraged by individuals with malicious intent is being exposed in responses, further improving the system's security.
 
 ___Stack___
 - Ruby on Rails
@@ -59,9 +59,7 @@ __Projects__
 
 🔫 ___ActionPark Nürnberg___ - Laser tag Center
 
-Gathered and communicated with German clients to gather requirements and insight into the business model to plan solutions and action plans for the upcoming feature development cycle and rebranding.
-
-Added a unit test and integration coverage suite to the company's untested legacy booking app to ensure the safe adoption and modification of the codebase.
+Added a unit test and end-to-end coverage suite to the company's untested legacy booking app to ensure the safe adoption, refactoring, dependency upgrades and modification of the codebase.
 
 Re-designed the booking app to adhere to the designs provided by the business in order to reflect their new branding, image and style guide.
 
@@ -102,7 +100,7 @@ Translated legal and sensitive documents to facilitate the exchange, communicati
 `2016-2017`
 __[Software Engineer - Contractor, _Remodeltec Panama_ ]__
 
-__Projects__  
+__Projects__
 
 🩺 ___Farma Eventos___ - Health Sector
 
