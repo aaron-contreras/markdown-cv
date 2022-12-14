@@ -6,9 +6,9 @@ title: Aaron Contreras
 Full-Stack Software Engineer.
 
 <div id="webaddress">
-<a href="mailto:aaronlcaq@gmail.com" target="_blank">aaronlcaq@gmail.com</a>
+<a href="mailto:i@aaron.af" target="_blank">i@aaron.af</a>
 <!-- | <a href="https://github.com/aaron-contreras" target="_blank">Portfolio</a> -->
-| <a href="https://www.linkedin.com/in/aaron-l-contreras/" target="_blank">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/aaronaf/" target="_blank">LinkedIn</a>
 | <a href="https://github.com/aaron-contreras" target="_blank">Github</a>
 </div>
 
@@ -53,7 +53,7 @@ ___Stack___
 
 
 `2021-now`
-__[ Full Stack Software Engineer - Freelance, _MateLab GmbH_ ]__
+__[ Full Stack Software Engineer, _MateLab GmbH_ ]__
 
 __Projects__
 
@@ -89,7 +89,7 @@ __Stack__
 - Heroku
 
 `2017-now`
-__[ Translator, _Independent_ ]__
+__[ Translator, _Freelance_ ]__
 
 __Projects__  
 
@@ -98,7 +98,7 @@ __Projects__
 Translated legal and sensitive documents to facilitate the exchange, communication and proceedings for law practices between attorneys and clients. Worked closely and in collaboration with the Criminal Sector lead of the firm.
 
 `2016-2017`
-__[Software Engineer - Contractor, _Remodeltec Panama_ ]__
+__[Software Engineer, _Remodeltec Panama_ ]__
 
 __Projects__
 
@@ -124,7 +124,7 @@ __Stack__
 
 ## Education
 
-`2019-now`
+`2019`
 __Bachelor's Degree, Universidad Tecnológica de Panamá.__
 
 - Software Development
