@@ -48,7 +48,7 @@ Audited the monolithic API's endpoints for unsanitized error responses, exposing
 
 Co-led, planned, designed and developed a Long Term Rental Flow initiative, allowing customers to book vehicles on a long term basis, alongside the company's already exisiting booking flow.
 
-[Live App](https://app.audiondemand.com/subscription)
+[Live App](https://app.audiondemand.com/long-term-drive)
 
 ___Stack___
 - Ruby on Rails
