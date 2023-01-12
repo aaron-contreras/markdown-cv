@@ -29,7 +29,7 @@ __English<->Spanish translation__ - Authorized and certified by Panama's Ministr
 ## Professional Experience
 
 `2021-now`
-__[ Backend Engineer, _BairesDev LLC_ - Full Time]__
+__[ Backend Engineer, _BairesDev LLC_ - Full Time ]__
 
 __Projects__
 
@@ -60,7 +60,7 @@ ___Stack___
 
 
 `2021-now`
-__[ Full Stack Software Engineer, Contractor _MateLab GmbH_ ]__
+__[ Full Stack Software Engineer, _MateLab GmbH_ - Contractor ]__
 
 __Projects__
 
@@ -112,7 +112,7 @@ __Projects__
 Translated legal and sensitive documents to facilitate the exchange, communication and proceedings for law practices between attorneys and clients. Worked closely and in collaboration with the Criminal Sector lead of the firm.
 
 `2016-2017`
-__[Software Engineer, _Remodeltec Panama_ ]__
+__[Software Engineer, _Remodeltec Panama_ - Contractor ]__
 
 __Projects__
 
